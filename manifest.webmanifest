@@ -1,7 +1,7 @@
 {
-  "name": "Family & Computeran Money Tracker",
+  "name": "Money Tracker",
   "short_name": "Money Tracker",
-  "description": "Personal, family, and computeran money tracker",
+  "description": "Family, personal, and computeran money tracker",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
