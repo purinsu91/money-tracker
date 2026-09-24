@@ -1,1 +1,6 @@
-Upload ALL files in this folder to the root of your GitHub money-tracker repository. Replace the existing index.html. Commit changes. GitHub Pages will redeploy automatically. Then on Android Chrome, open the site and choose Install app/Add to Home screen. If an old shortcut exists, remove it first and add it again so the new icon appears.
+Prince Money Tracker v14
+
+This fixes the top summary row correctly. v13 targeted the wrong CSS class.
+Today's Expenses, This Month, and Balance now use the app's real .cards/.card markup and stay in one horizontal row on mobile.
+
+Upload all files and replace existing GitHub repository files.
