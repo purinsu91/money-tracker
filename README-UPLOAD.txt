@@ -1,0 +1,1 @@
+Upload ALL files in this folder to the root of your GitHub money-tracker repository. Replace the existing index.html. Commit changes. GitHub Pages will redeploy automatically. Then on Android Chrome, open the site and choose Install app/Add to Home screen. If an old shortcut exists, remove it first and add it again so the new icon appears.
